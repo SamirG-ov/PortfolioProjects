@@ -1,7 +1,7 @@
 # Covid-19 Database Exploration and Visualization
 
 ## Overview
-This project is focused on exploring the Covid-19 dataset from the 'Our World in Data' website and visualizing key insights. The goal is to analyze global trends and present data-driven findings to stakeholders.
+This project is focused on exploring the Covid-19 dataset from the 'Our World in Data' website with **SQL** and **Excel** and visualizing key insights with **Tableau**. The goal is to analyze global trends and present data-driven findings to stakeholders.
 
 ## Data Source
 The data used in this project is sourced from the 'Our World in Data' website: [Our World in Data - Covid-19](https://ourworldindata.org/covid-deaths).
@@ -29,3 +29,7 @@ The data used in this project is sourced from the 'Our World in Data' website: [
 4. **Percent Population Infected Over Time**:
    - Infected populations for select countries (Brazil, Canada, China, France, Germany)
    - *Visualization*: Line graph
+  
+Find the interactive Visualization Here[Tableau Public link: https://public.tableau.com/app/profile/samir.gulahmadov/viz/Covid_Exploration_Table/Dashboard1]
+
+![Dashboard](https://github.com/SamirG-ov/PortfolioProjects/assets/47461720/4e6e018e-2aeb-4b48-ae40-3e5cff195a1d)
