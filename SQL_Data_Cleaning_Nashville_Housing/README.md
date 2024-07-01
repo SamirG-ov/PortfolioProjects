@@ -23,6 +23,8 @@ We used Tableau to visualize the cleaned data, focusing on the following key ins
 1. **Average Sale Price by Land Value**: We explored the sale prices by different land categories and visualized the price differences in a clear and comprehensible table.
 2. **Property Sale Trends by City**: Created a bar graph to illustrate the average sale prices across different cities within Nashville.
 
+Find the interactive Visualization Here [Tableau Public link: https://public.tableau.com/app/profile/samir.gulahmadov/viz/Nashville_Housing/Dashboard1]
+
 ![Dashboard](https://github.com/SamirG-ov/PortfolioProjects/assets/47461720/dfc67c86-5042-4bd8-a621-30a215ead34a)
 
 ## Tools Used
