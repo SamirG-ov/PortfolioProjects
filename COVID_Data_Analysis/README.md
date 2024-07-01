@@ -33,3 +33,9 @@ The data used in this project is sourced from the 'Our World in Data' website: [
 Find the interactive Visualization Here[Tableau Public link: https://public.tableau.com/app/profile/samir.gulahmadov/viz/Covid_Exploration_Table/Dashboard1]
 
 ![Dashboard](https://github.com/SamirG-ov/PortfolioProjects/assets/47461720/4e6e018e-2aeb-4b48-ae40-3e5cff195a1d)
+
+## Tools Used
+
+- **Excel**: Initial data exploration and basic cleaning.
+- **SQL**: Data cleaning and transformation.
+- **Tableau**: Data visualization.
